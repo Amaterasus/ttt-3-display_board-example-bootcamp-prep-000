@@ -6,3 +6,4 @@ def display_board
              |   |   /n
           -----------/n   
              |   |   "
+  end
