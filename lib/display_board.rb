@@ -2,7 +2,7 @@
 
 def display_board
   prints "   |   |   /n
-          
-             |   |   
-             
+          -----------/n
+             |   |   /n
+          -----------/n   
              |   |   "
