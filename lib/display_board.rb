@@ -7,3 +7,5 @@ def display_board
   -----------\n
      |   |   "
   end
+  
+display_board
